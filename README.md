@@ -1,4 +1,4 @@
-# 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# 📊 Projeto ML: Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem-vindo ao meu projeto de Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Apresentando meu relatório sobre o uso do SageMaker Canvas para criar previsões de estoque e a análise do resultado apresentado baseadas em Machine Learning (ML).
 
